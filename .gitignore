@@ -1,0 +1,15 @@
+/Recipe.NetCore/obj
+/Template/bin
+/Template/obj
+/.vs
+/Template.Service/bin
+/Template.Service/obj
+/Template.Repository/bin
+/Template.Repository/obj
+/Template.Core/bin
+/Template.Core/obj
+/Template.Common/bin
+/Template.Common/obj
+/Recipe.NetCore/bin
+/Template.Core/Template.Core.csproj.user
+/Template/Template.csproj.user
