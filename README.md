@@ -43,3 +43,14 @@ open package manager console then write 'add-migration 'migrationName''. see oth
 
 If above one doesn't work then open cli. Navigate to .Core project. Write "dotnet ef migrations add 'migrationname' -s ../Template". -S refers to startup project. For further command, use above mentioned link.
 
+How to generate swagger docs
+-----------------------------------------
+1- Add the Swagger response attribute on action 
+2- Run project and then go to this url for the swagger docs 
+https://localhost:44353/swagger/index.html 
+
+
+
+
+
+
