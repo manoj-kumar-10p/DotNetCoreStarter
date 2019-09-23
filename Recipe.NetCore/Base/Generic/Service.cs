@@ -7,7 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Template.Common.Helper;
+using Api.Common.Helper;
 
 namespace Recipe.NetCore.Base.Generic
 {

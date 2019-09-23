@@ -7,8 +7,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using static Template.Common.Constant.Constant;
-using static Template.Common.Constant.Constant.Strings;
+using static Api.Common.Constant.Constant;
+using static Api.Common.Constant.Constant.Strings;
 
 namespace Recipe.NetCore.Infrastructure
 {

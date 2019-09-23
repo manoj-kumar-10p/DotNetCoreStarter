@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Template.Common.Helper
+namespace Api.Common.Helper
 {
     public static class FilterRequest
     {
