@@ -45,8 +45,8 @@ If above one doesn't work then open cli. Navigate to .Core project. Write "dotne
 
 How to generate swagger docs
 -----------------------------------------
-1- Add the Swagger response attribute on action 
-2- Run project and then go to this url for the swagger docs 
+1- Add the Swagger response attribute on action. 
+2- Run project and then go to this url for the swagger docs. 
 https://localhost:44353/swagger/index.html 
 
 
