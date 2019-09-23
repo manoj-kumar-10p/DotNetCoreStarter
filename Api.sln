@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Repository", "Api.Repos
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Service", "Api.Service\Api.Service.csproj", "{B2885E29-8707-4B66-BA0E-4D86F660B7CD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recipe.NetCore", "Recipe.NetCore\Recipe.NetCore.csproj", "{E96067F0-731D-46E1-B28A-073A9591C6F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Database", "Api.Database\Api.Database.csproj", "{E96067F0-731D-46E1-B28A-073A9591C6F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

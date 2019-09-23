@@ -21,6 +21,7 @@
     <ProjectReference Include="..\Api.Core\Api.Core.csproj" />
     <ProjectReference Include="..\Api.Repository\Api.Repository.csproj" />
     <ProjectReference Include="..\Api.Service\Api.Service.csproj" />
+	<ProjectReference Include="..\Api.Database\Api.Database.csproj" />
   </ItemGroup>
 
   <ItemGroup>

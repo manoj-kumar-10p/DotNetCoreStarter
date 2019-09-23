@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Recipe.NetCore.Base.Abstract;
+using Api.Database.Base.Abstract;
 using Api.Common.Helper;
 using Api.Utils;
 

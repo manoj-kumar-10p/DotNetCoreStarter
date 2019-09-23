@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Recipe.NetCore.Base.Abstract;
+using Api.Database.Base.Abstract;
 using Swashbuckle.AspNetCore.Annotations;
 using Api.ActionFilters;
 using Api.Core.DTO;

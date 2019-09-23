@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Recipe.NetCore\Recipe.NetCore.csproj" />
     <ProjectReference Include="..\Api.Core\Api.Core.csproj" />
+    <ProjectReference Include="..\Api.Database\Api.Database.csproj" />
   </ItemGroup>
 
 </Project>

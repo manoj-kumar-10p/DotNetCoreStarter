@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Recipe.NetCore.Base.Generic;
-using Recipe.NetCore.Base.Interface;
+using Api.Database.Base.Generic;
+using Api.Database.Base.Interface;
 using Api.Core.DbContext;
 using Api.Core.Entity;
 using Api.Core.IRepository;

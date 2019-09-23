@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Recipe.NetCore.Base.Abstract;
-using Recipe.NetCore.Base.Interface;
+using Api.Database.Base.Abstract;
+using Api.Database.Base.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,9 +33,9 @@ namespace Api.Api
 
             #region Base
             services.AddHttpContextAccessor();
-            services.AddScoped<IRequestInfo<ApiContext>, Recipe.NetCore.Infrastructure.RequestInfo<ApiContext>>();
+            services.AddScoped<IRequestInfo<ApiContext>, Database.Infrastructure.RequestInfo<ApiContext>>();
             services.AddScoped<IUnitOfWork, UnitOfWork<ApiContext>>();
-            services.AddScoped(typeof(IService), typeof(Recipe.NetCore.Base.Generic.Service));
+            services.AddScoped(typeof(IService), typeof(Database.Base.Generic.Service));
             #endregion
 
             #region Test

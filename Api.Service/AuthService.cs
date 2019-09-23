@@ -2,9 +2,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using Recipe.NetCore.Base.Abstract;
-using Recipe.NetCore.Base.Generic;
-using Recipe.NetCore.Base.Interface;
+using Api.Database.Base.Abstract;
+using Api.Database.Base.Generic;
+using Api.Database.Base.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;

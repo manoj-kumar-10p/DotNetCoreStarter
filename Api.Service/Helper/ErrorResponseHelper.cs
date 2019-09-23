@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
-using Recipe.NetCore.Base.Abstract;
+using Api.Database.Base.Abstract;
 using System;
 using System.Collections.Generic;
 using System.Linq;
