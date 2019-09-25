@@ -13,3 +13,5 @@
 /Recipe.NetCore/bin
 /Api.Core/Api.Core.csproj.user
 /Api/Api.csproj.user
+/Api.Database/bin
+/Api.Database/obj

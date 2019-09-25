@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Api.Core.Enum
+namespace Api.Common.Enum
 {
-    enum UserRole
+    public enum UserRole
     {
         SuperAdmin = 1,
         Admin = 2,

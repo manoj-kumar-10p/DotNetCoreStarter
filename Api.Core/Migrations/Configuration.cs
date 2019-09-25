@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Api.Core.DbContext;
 using Api.Core.Entity;
-using Api.Core.Enum;
+using Api.Common.Enum;
 
 namespace Api.Core.Migrations
 {
