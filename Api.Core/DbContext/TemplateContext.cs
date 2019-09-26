@@ -16,6 +16,7 @@ namespace Api.Core.DbContext
         }
         public DbSet<TestTable> TestTable { get; set; }
         public DbSet<AuthStore> AuthStore { get; set; }
+        public DbSet<Car> Car { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

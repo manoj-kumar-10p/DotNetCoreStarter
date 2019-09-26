@@ -1,0 +1,13 @@
+﻿using Api.Database.Base.Abstract;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using Api.Core.Entity;
+
+namespace Api.Core.DTO
+{
+    public class CarDTO : Dto<Car, long>
+    {
+        public string Classification { get; set; }
+    }
+}
